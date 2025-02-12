@@ -1,6 +1,6 @@
 # Vd 1
 
-FILENAME = "secret.txt"
+FILENAME = "text.txt"
 
 def main():
     secret = load_number(FILENAME)
